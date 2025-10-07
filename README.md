@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Khai.
-- 💞 I’m interested in NLP, Computer Vision, Deep Learning, Generative AI, etc.
+- 💞 I’m interested in NLP, Deep Learning, Generative AI, etc.
 - 💼 I'm a PhD student in Data Science, specialising in Information Extraction at The University of Queensland, Australia.
 - 🔎 I'm looking to collaborate on NLP or any ML research.
 - 📩 How to reach me: tranphan.khai@gmail.com
